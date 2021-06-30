@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="crop__bar_height">45dp</dimen>
+    <integer name="grid_columns_assets">5</integer>
+
+</resources>
